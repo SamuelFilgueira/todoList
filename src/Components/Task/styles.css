@@ -1,0 +1,17 @@
+.taskContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  height: 70px;
+  width: 100%;
+  padding: 20px;
+  box-shadow: 0 0 20px #ccc;
+  margin-bottom: 2%;
+  cursor: pointer;
+}
+
+.taskContainer li {
+  list-style: none;
+  font-size: 20px;
+}
